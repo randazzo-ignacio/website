@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+This page servers as a reference for me when adding new pages, pay no attention to it, it should be gone in a future update.
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
